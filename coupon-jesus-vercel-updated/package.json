@@ -1,0 +1,8 @@
+{
+  "name": "coupon-jesus-webhook",
+  "version": "1.0.0",
+  "description": "Stripe webhook handler for Coupon Jesus + Local Meat Club",
+  "dependencies": {
+    "stripe": "^14.0.0"
+  }
+}
